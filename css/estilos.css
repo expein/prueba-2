@@ -1,14 +1,15 @@
-<<<<<<< HEAD
+
 section #c1{
     text-align: justify;
     margin-left: 300px;
     margin-right: 300px;
 }
 
-p{
-    margin-top: 30px;
+section p{
+    text-align: justify;
+    margin-top: 40px;
 }
-=======
+
 header h1{
     background: blue;
     color: white;
@@ -31,7 +32,7 @@ header{
 
 header ul li{
     list-style: none;
-    margin-top: 50px;
+    margin-top: 75px;
 }
 
 header ul li a:link{
@@ -41,4 +42,12 @@ header ul li a:link{
 header ul li a:hover{
     color: black;
 }
->>>>>>> cabecera
+
+
+footer p {
+    background-color: gray;
+    padding: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}

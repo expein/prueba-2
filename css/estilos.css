@@ -1,0 +1,32 @@
+header h1{
+    background: blue;
+    color: white;
+    padding: 50px;
+    margin-left:none;
+    margin-right: none;
+}
+
+header ul li a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    background: #901F45;
+    border: black solid 3px;
+}
+
+header{
+    background-color: blue;
+}
+
+header ul li{
+    list-style: none;
+    margin-top: 50px;
+}
+
+header ul li a:link{
+    text-decoration: none;
+}
+
+header ul li a:hover{
+    color: black;
+}

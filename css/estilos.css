@@ -23,7 +23,6 @@ header ul li a{
     color: white;
     text-decoration: none;
     background: #901F45;
-    border: black solid 3px;
 }
 
 header{
@@ -40,7 +39,17 @@ header ul li a:link{
 }
 
 header ul li a:hover{
+    background-color: white;
     color: black;
+}
+
+header ul li a{
+    padding: 79px;
+    padding-left: 50px;
+    padding-bottom: 59px;
+    padding-right: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 

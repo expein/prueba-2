@@ -11,6 +11,7 @@ section p{
 }
 
 header h1{
+    font-size: 35px;
     background: blue;
     color: white;
     padding: 50px;
@@ -19,7 +20,6 @@ header h1{
 }
 
 header ul li a{
-    margin-right: 20px;
     color: white;
     text-decoration: none;
     background: #901F45;
@@ -44,10 +44,11 @@ header ul li a:hover{
 }
 
 header ul li a{
-    padding: 79px;
-    padding-left: 117px;
-    padding-bottom: 59px;
-    padding-right: 117px;
+    height: 200px;
+    padding: 90px;
+    padding-left: 50px;
+    padding-bottom: 108px;
+    padding-right: 50px;
     margin-left: 0px;
     margin-right: 0px;
 }
@@ -59,4 +60,9 @@ footer p {
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
+}
+
+header .im1{
+    height: 205px;
+    width: 200px;
 }

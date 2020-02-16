@@ -27,6 +27,7 @@ header ul li a{
 
 header{
     background-color: blue;
+    height: 170px;
 }
 
 header ul li{
@@ -44,10 +45,10 @@ header ul li a:hover{
 }
 
 header ul li a{
-    height: 200px;
+    height: 150px;
     padding: 90px;
     padding-left: 50px;
-    padding-bottom: 108px;
+    padding-bottom: 73px;
     padding-right: 50px;
     margin-left: 0px;
     margin-right: 0px;
@@ -63,6 +64,6 @@ footer p {
 }
 
 header .im1{
-    height: 205px;
+    height: 170px;
     width: 200px;
 }
